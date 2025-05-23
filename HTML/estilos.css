@@ -13,7 +13,7 @@
 
         /* HEADER - Usando flexbox */
         header {
-            background: linear-gradient(135deg, black 5%, #f4f3f5 100%);
+            background: linear-gradient(135deg, black 25%, #f4f3f5 100%);
             color: white;
             padding: 1rem 0;
             position: fixed;
